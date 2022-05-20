@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" type="text/css" href="blog.css">
+</head>
+
+<body>
+    <div class="post">
+        <div id="date"> Nov 13th,1999</div>
+        <h2>Ethiopia: My favorite City</h2>
+
+        <p class="quote">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis voluptate dolores nihil aut
+            laudantium et,
+            laborum rerum vitae! Quia quisquam saepe, corporis odio rem nisi dolorum veritatis dolor voluptatum
+            adipisci Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero, corporis non, voluptates ipsa
+            veritatis ea voluptas, voluptatum rerum officiis veniam deleniti ipsum nihil illo amet autem quis ducimus ex
+            perferendis? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque debitis iure corporis
+            molestias neque numquam consequatur saepe ducimus esse incidunt laudantium amet natus, earum odit voluptatem
+            tempora a. Enim, fugit.</p>
+        <a href="https://www.toutude.com" target="blank"><img src="img1.jpg" alt="was a nice picture"></a>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque sunt unde velit, perspiciatis, ipsa atque
+            voluptates quo asperiores aspernatur assumenda sequi saepe deleniti vel consectetur nostrum natus? Corrupti,
+            nulla recusandae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus consequatur, nulla
+            accusamus, vitae id eius, quos doloribus optio odio voluptas veniam tempore excepturi! Tenetur ducimus vero
+            in. Voluptas, quaerat quae? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi suscipit
+            consequatur exercitationem quidem maxime vel odit, recusandae, impedit expedita, corporis illo fuga
+            provident reiciendis ut Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam ipsam ut aliquam
+            nulla incidunt! Minus odit itaque ab inventore illum a quibusdam laboriosam, cum ex dignissimos voluptatibus
+            tempore saepe labore? ea officiis at? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
+            voluptatum ut veniam laudantium soluta exercitationem in, possimus suscipit. Deserunt tenetur ut nemo quas
+            fugiat? Eaque sed eum consectetur numquam earum!l Odio, recusandae.</p>
+        <a href="https://www.google.com" target="blank">Google</a>
+        <hr>
+
+        <div id="date"> Nov 23th,1999</div>
+        <h2>Ethiopia: My Second most favorite City</h2>
+
+        <p class="quote">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis voluptate dolores nihil aut
+            laudantium et,
+            laborum rerum vitae! Quia quisquam saepe, corporis odio rem nisi dolorum veritatis dolor voluptatum
+            adipisci Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero, corporis non, voluptates ipsa
+            veritatis ea voluptas, voluptatum rerum officiis veniam deleniti ipsum nihil illo amet autem quis ducimus ex
+            perferendis? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque debitis iure corporis
+            molestias neque numquam consequatur saepe ducimus esse incidunt laudantium amet natus, earum odit voluptatem
+            tempora a. Enim, fugit.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque sunt unde velit, perspiciatis, ipsa atque
+            voluptates quo asperiores aspernatur assumenda sequi saepe deleniti vel consectetur nostrum natus? Corrupti,
+            nulla recusandae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus consequatur, nulla
+            accusamus, vitae id eius, quos doloribus optio odio voluptas veniam tempore excepturi! Tenetur ducimus vero
+            in. Voluptas, quaerat quae? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi suscipit
+            consequatur exercitationem quidem maxime vel odit, recusandae, impedit expedita, corporis illo fuga
+            provident reiciendis ut Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam ipsam ut aliquam
+            nulla incidunt! Minus odit itaque ab inventore illum a quibusdam laboriosam, cum ex dignissimos voluptatibus
+            tempore saepe labore? ea officiis at? Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
+            voluptatum ut veniam laudantium soluta exercitationem in, possimus suscipit. Deserunt tenetur ut nemo quas
+            fugiat? Eaque sed eum consectetur numquam earum!l Odio, recusandae.</p>
+
+
+    </div>
+
+</body>
+
+</html>
